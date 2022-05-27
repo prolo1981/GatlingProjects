@@ -1,0 +1,10 @@
+{
+  "simulation": "com.gatling.tests.DemoApi",
+  "simulationId": "demoapi",
+  "start": 1651175532896,
+  "description": "",
+  "scenarios": ["GET peliculas"],
+  "assertions": [
+
+  ]
+}

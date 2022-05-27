@@ -1,0 +1,4 @@
+RUN	com.gatling.tests.DemoApi_ERP	demoapi-erp	1652123851024	1	3.6.1
+USER	producto por codigo	START	1652123865522
+REQUEST		producto	1652123865679	1652123867006	OK	 
+USER	producto por codigo	END	1652123867204

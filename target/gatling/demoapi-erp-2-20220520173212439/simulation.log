@@ -1,0 +1,4 @@
+RUN	com.gatling.tests.DemoApi_ERP_2	demoapi-erp-2	1653067932439	Ventas	3.6.1
+ERROR	Ventas: Failed to build request: No baseUrl defined but provided url is relative : /Ventas/SendCFE?request=CFERequest 	1653067942487
+USER	Crear comprobante de Ventas	END	1653067942497
+USER	Crear comprobante de Ventas	START	1653067942466

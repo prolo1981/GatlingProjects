@@ -1,0 +1,10 @@
+{
+  "simulation": "com.gatling.tests.DemoApi_ERP",
+  "simulationId": "demoapi-erp",
+  "start": 1652208923425,
+  "description": "",
+  "scenarios": ["Producto por pagina"],
+  "assertions": [
+
+  ]
+}

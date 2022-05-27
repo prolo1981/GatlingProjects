@@ -1,0 +1,10 @@
+{
+  "simulation": "com.gatling.tests.DemoApi_ERP_2",
+  "simulationId": "demoapi-erp-2",
+  "start": 1653334320661,
+  "description": "2",
+  "scenarios": ["Crear comprobante de Ventas"],
+  "assertions": [
+
+  ]
+}

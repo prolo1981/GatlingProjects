@@ -1,0 +1,4 @@
+RUN	com.gatling.tests.DemoApi_ERP	demoapi-erp	1651259557481	1	3.6.1
+REQUEST		producto	1651259559934	1651259560075	KO	j.n.UnknownHostException: apitesting.memory.com.uyProductos
+USER	producto por codigo	END	1651259560118
+USER	producto por codigo	START	1651259559811

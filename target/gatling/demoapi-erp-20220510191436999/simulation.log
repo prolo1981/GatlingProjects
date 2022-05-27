@@ -1,0 +1,1501 @@
+RUN	com.gatling.tests.DemoApi_ERP	demoapi-erp	1652210076999	 	3.6.1
+USER	Producto por pagina	START	1652210078518
+USER	Producto por pagina	START	1652210078492
+USER	Producto por pagina	START	1652210078561
+USER	Producto por pagina	START	1652210078519
+USER	Producto por pagina	START	1652210078515
+USER	Producto por pagina	START	1652210078562
+USER	Producto por pagina	START	1652210078574
+USER	Producto por pagina	START	1652210078561
+USER	Producto por pagina	START	1652210078520
+USER	Producto por pagina	START	1652210078576
+USER	Producto por pagina	START	1652210078578
+USER	Producto por pagina	START	1652210078579
+USER	Producto por pagina	START	1652210078581
+USER	Producto por pagina	START	1652210078582
+USER	Producto por pagina	START	1652210078584
+USER	Producto por pagina	START	1652210078585
+USER	Producto por pagina	START	1652210078588
+USER	Producto por pagina	START	1652210078590
+USER	Producto por pagina	START	1652210078592
+USER	Producto por pagina	START	1652210078594
+USER	Producto por pagina	START	1652210078516
+USER	Producto por pagina	START	1652210078595
+USER	Producto por pagina	START	1652210078574
+USER	Producto por pagina	START	1652210078597
+USER	Producto por pagina	START	1652210078576
+USER	Producto por pagina	START	1652210078589
+USER	Producto por pagina	START	1652210078576
+USER	Producto por pagina	START	1652210078599
+USER	Producto por pagina	START	1652210078595
+USER	Producto por pagina	START	1652210078597
+USER	Producto por pagina	START	1652210078601
+USER	Producto por pagina	START	1652210078601
+USER	Producto por pagina	START	1652210078601
+USER	Producto por pagina	START	1652210078602
+USER	Producto por pagina	START	1652210078602
+USER	Producto por pagina	START	1652210078602
+USER	Producto por pagina	START	1652210078604
+USER	Producto por pagina	START	1652210078604
+USER	Producto por pagina	START	1652210078605
+USER	Producto por pagina	START	1652210078604
+USER	Producto por pagina	START	1652210078607
+USER	Producto por pagina	START	1652210078607
+USER	Producto por pagina	START	1652210078602
+USER	Producto por pagina	START	1652210078520
+USER	Producto por pagina	START	1652210078609
+USER	Producto por pagina	START	1652210078610
+USER	Producto por pagina	START	1652210078610
+USER	Producto por pagina	START	1652210078612
+USER	Producto por pagina	START	1652210078613
+USER	Producto por pagina	START	1652210078615
+USER	Producto por pagina	START	1652210078616
+USER	Producto por pagina	START	1652210078613
+USER	Producto por pagina	START	1652210078618
+USER	Producto por pagina	START	1652210078619
+USER	Producto por pagina	START	1652210078620
+USER	Producto por pagina	START	1652210078620
+USER	Producto por pagina	START	1652210078623
+USER	Producto por pagina	START	1652210078624
+USER	Producto por pagina	START	1652210078626
+USER	Producto por pagina	START	1652210078627
+USER	Producto por pagina	START	1652210078629
+USER	Producto por pagina	START	1652210078631
+USER	Producto por pagina	START	1652210078516
+USER	Producto por pagina	START	1652210078610
+USER	Producto por pagina	START	1652210078635
+USER	Producto por pagina	START	1652210078609
+USER	Producto por pagina	START	1652210078636
+USER	Producto por pagina	START	1652210078627
+USER	Producto por pagina	START	1652210078639
+USER	Producto por pagina	START	1652210078640
+USER	Producto por pagina	START	1652210078605
+USER	Producto por pagina	START	1652210078635
+USER	Producto por pagina	START	1652210078632
+USER	Producto por pagina	START	1652210078641
+USER	Producto por pagina	START	1652210078642
+USER	Producto por pagina	START	1652210078643
+USER	Producto por pagina	START	1652210078644
+USER	Producto por pagina	START	1652210078600
+USER	Producto por pagina	START	1652210078646
+USER	Producto por pagina	START	1652210078613
+USER	Producto por pagina	START	1652210078640
+USER	Producto por pagina	START	1652210078648
+USER	Producto por pagina	START	1652210078650
+USER	Producto por pagina	START	1652210078641
+USER	Producto por pagina	START	1652210078651
+USER	Producto por pagina	START	1652210078641
+USER	Producto por pagina	START	1652210078652
+USER	Producto por pagina	START	1652210078645
+USER	Producto por pagina	START	1652210078656
+USER	Producto por pagina	START	1652210078658
+USER	Producto por pagina	START	1652210078640
+USER	Producto por pagina	START	1652210078660
+USER	Producto por pagina	START	1652210078662
+USER	Producto por pagina	START	1652210078646
+USER	Producto por pagina	START	1652210078664
+USER	Producto por pagina	START	1652210078648
+USER	Producto por pagina	START	1652210078666
+USER	Producto por pagina	START	1652210078668
+USER	Producto por pagina	START	1652210078665
+USER	Producto por pagina	START	1652210078669
+USER	Producto por pagina	START	1652210078666
+USER	Producto por pagina	START	1652210078671
+USER	Producto por pagina	START	1652210078654
+USER	Producto por pagina	START	1652210078674
+USER	Producto por pagina	START	1652210078667
+USER	Producto por pagina	START	1652210078674
+USER	Producto por pagina	START	1652210078675
+USER	Producto por pagina	START	1652210078675
+USER	Producto por pagina	START	1652210078675
+USER	Producto por pagina	START	1652210078670
+USER	Producto por pagina	START	1652210078678
+USER	Producto por pagina	START	1652210078648
+USER	Producto por pagina	START	1652210078679
+USER	Producto por pagina	START	1652210078678
+USER	Producto por pagina	START	1652210078680
+USER	Producto por pagina	START	1652210078681
+USER	Producto por pagina	START	1652210078682
+USER	Producto por pagina	START	1652210078682
+USER	Producto por pagina	START	1652210078683
+USER	Producto por pagina	START	1652210078684
+USER	Producto por pagina	START	1652210078654
+USER	Producto por pagina	START	1652210078672
+USER	Producto por pagina	START	1652210078687
+USER	Producto por pagina	START	1652210078687
+USER	Producto por pagina	START	1652210078651
+USER	Producto por pagina	START	1652210078691
+USER	Producto por pagina	START	1652210078689
+USER	Producto por pagina	START	1652210078676
+USER	Producto por pagina	START	1652210078696
+USER	Producto por pagina	START	1652210078696
+USER	Producto por pagina	START	1652210078697
+USER	Producto por pagina	START	1652210078698
+USER	Producto por pagina	START	1652210078699
+USER	Producto por pagina	START	1652210078699
+USER	Producto por pagina	START	1652210078700
+USER	Producto por pagina	START	1652210078700
+USER	Producto por pagina	START	1652210078702
+USER	Producto por pagina	START	1652210078704
+USER	Producto por pagina	START	1652210078693
+USER	Producto por pagina	START	1652210078677
+USER	Producto por pagina	START	1652210078706
+USER	Producto por pagina	START	1652210078695
+USER	Producto por pagina	START	1652210078679
+USER	Producto por pagina	START	1652210078709
+USER	Producto por pagina	START	1652210078709
+USER	Producto por pagina	START	1652210078685
+USER	Producto por pagina	START	1652210078714
+USER	Producto por pagina	START	1652210078685
+USER	Producto por pagina	START	1652210078715
+USER	Producto por pagina	START	1652210078705
+USER	Producto por pagina	START	1652210078706
+USER	Producto por pagina	START	1652210078717
+USER	Producto por pagina	START	1652210078717
+USER	Producto por pagina	START	1652210078707
+USER	Producto por pagina	START	1652210078718
+USER	Producto por pagina	START	1652210078713
+USER	Producto por pagina	START	1652210078711
+USER	Producto por pagina	START	1652210078719
+USER	Producto por pagina	START	1652210078722
+USER	Producto por pagina	START	1652210078715
+USER	Producto por pagina	START	1652210078723
+USER	Producto por pagina	START	1652210078722
+USER	Producto por pagina	START	1652210078724
+USER	Producto por pagina	START	1652210078725
+USER	Producto por pagina	START	1652210078701
+USER	Producto por pagina	START	1652210078726
+USER	Producto por pagina	START	1652210078727
+USER	Producto por pagina	START	1652210078728
+USER	Producto por pagina	START	1652210078718
+USER	Producto por pagina	START	1652210078729
+USER	Producto por pagina	START	1652210078730
+USER	Producto por pagina	START	1652210078730
+USER	Producto por pagina	START	1652210078731
+USER	Producto por pagina	START	1652210078719
+USER	Producto por pagina	START	1652210078733
+USER	Producto por pagina	START	1652210078734
+USER	Producto por pagina	START	1652210078735
+USER	Producto por pagina	START	1652210078733
+USER	Producto por pagina	START	1652210078739
+USER	Producto por pagina	START	1652210078739
+USER	Producto por pagina	START	1652210078741
+USER	Producto por pagina	START	1652210078722
+USER	Producto por pagina	START	1652210078744
+USER	Producto por pagina	START	1652210078727
+USER	Producto por pagina	START	1652210078746
+USER	Producto por pagina	START	1652210078716
+USER	Producto por pagina	START	1652210078731
+USER	Producto por pagina	START	1652210078726
+USER	Producto por pagina	START	1652210078750
+USER	Producto por pagina	START	1652210078752
+USER	Producto por pagina	START	1652210078749
+USER	Producto por pagina	START	1652210078741
+USER	Producto por pagina	START	1652210078754
+USER	Producto por pagina	START	1652210078755
+USER	Producto por pagina	START	1652210078756
+USER	Producto por pagina	START	1652210078748
+USER	Producto por pagina	START	1652210078747
+USER	Producto por pagina	START	1652210078758
+USER	Producto por pagina	START	1652210078760
+USER	Producto por pagina	START	1652210078763
+USER	Producto por pagina	START	1652210078765
+USER	Producto por pagina	START	1652210078767
+USER	Producto por pagina	START	1652210078724
+USER	Producto por pagina	START	1652210078768
+USER	Producto por pagina	START	1652210078774
+USER	Producto por pagina	START	1652210078758
+USER	Producto por pagina	START	1652210078776
+USER	Producto por pagina	START	1652210078778
+USER	Producto por pagina	START	1652210078746
+USER	Producto por pagina	START	1652210078779
+USER	Producto por pagina	START	1652210078754
+USER	Producto por pagina	START	1652210078757
+USER	Producto por pagina	START	1652210078757
+USER	Producto por pagina	START	1652210078768
+USER	Producto por pagina	START	1652210078778
+USER	Producto por pagina	START	1652210078782
+USER	Producto por pagina	START	1652210078780
+USER	Producto por pagina	START	1652210078780
+USER	Producto por pagina	START	1652210078783
+USER	Producto por pagina	START	1652210078783
+USER	Producto por pagina	START	1652210078781
+USER	Producto por pagina	START	1652210078784
+USER	Producto por pagina	START	1652210078784
+USER	Producto por pagina	START	1652210078785
+USER	Producto por pagina	START	1652210078782
+USER	Producto por pagina	START	1652210078786
+USER	Producto por pagina	START	1652210078787
+USER	Producto por pagina	START	1652210078790
+USER	Producto por pagina	START	1652210078786
+USER	Producto por pagina	START	1652210078792
+USER	Producto por pagina	START	1652210078782
+USER	Producto por pagina	START	1652210078793
+USER	Producto por pagina	START	1652210078783
+USER	Producto por pagina	START	1652210078794
+USER	Producto por pagina	START	1652210078795
+USER	Producto por pagina	START	1652210078796
+USER	Producto por pagina	START	1652210078794
+USER	Producto por pagina	START	1652210078795
+USER	Producto por pagina	START	1652210078805
+USER	Producto por pagina	START	1652210078797
+USER	Producto por pagina	START	1652210078807
+USER	Producto por pagina	START	1652210078808
+USER	Producto por pagina	START	1652210078784
+USER	Producto por pagina	START	1652210078811
+USER	Producto por pagina	START	1652210078815
+USER	Producto por pagina	START	1652210078793
+USER	Producto por pagina	START	1652210078817
+USER	Producto por pagina	START	1652210078818
+USER	Producto por pagina	START	1652210078784
+USER	Producto por pagina	START	1652210078819
+USER	Producto por pagina	START	1652210078792
+USER	Producto por pagina	START	1652210078823
+USER	Producto por pagina	START	1652210078825
+USER	Producto por pagina	START	1652210078799
+USER	Producto por pagina	START	1652210078830
+USER	Producto por pagina	START	1652210078813
+USER	Producto por pagina	START	1652210078827
+USER	Producto por pagina	START	1652210078832
+USER	Producto por pagina	START	1652210078808
+USER	Producto por pagina	START	1652210078835
+USER	Producto por pagina	START	1652210078818
+USER	Producto por pagina	START	1652210078836
+USER	Producto por pagina	START	1652210078839
+USER	Producto por pagina	START	1652210078841
+USER	Producto por pagina	START	1652210078831
+USER	Producto por pagina	START	1652210078819
+USER	Producto por pagina	START	1652210078843
+USER	Producto por pagina	START	1652210078844
+USER	Producto por pagina	START	1652210078844
+USER	Producto por pagina	START	1652210078839
+USER	Producto por pagina	START	1652210078829
+USER	Producto por pagina	START	1652210078845
+USER	Producto por pagina	START	1652210078846
+USER	Producto por pagina	START	1652210078847
+USER	Producto por pagina	START	1652210078845
+USER	Producto por pagina	START	1652210078849
+USER	Producto por pagina	START	1652210078834
+USER	Producto por pagina	START	1652210078847
+USER	Producto por pagina	START	1652210078845
+USER	Producto por pagina	START	1652210078843
+USER	Producto por pagina	START	1652210078851
+USER	Producto por pagina	START	1652210078851
+USER	Producto por pagina	START	1652210078852
+USER	Producto por pagina	START	1652210078848
+USER	Producto por pagina	START	1652210078852
+USER	Producto por pagina	START	1652210078853
+USER	Producto por pagina	START	1652210078832
+USER	Producto por pagina	START	1652210078853
+USER	Producto por pagina	START	1652210078850
+USER	Producto por pagina	START	1652210078855
+USER	Producto por pagina	START	1652210078851
+USER	Producto por pagina	START	1652210078852
+USER	Producto por pagina	START	1652210078857
+USER	Producto por pagina	START	1652210078853
+USER	Producto por pagina	START	1652210078859
+USER	Producto por pagina	START	1652210078859
+USER	Producto por pagina	START	1652210078860
+USER	Producto por pagina	START	1652210078861
+USER	Producto por pagina	START	1652210078855
+USER	Producto por pagina	START	1652210078861
+USER	Producto por pagina	START	1652210078862
+USER	Producto por pagina	START	1652210078862
+USER	Producto por pagina	START	1652210078855
+USER	Producto por pagina	START	1652210078856
+USER	Producto por pagina	START	1652210078854
+USER	Producto por pagina	START	1652210078863
+USER	Producto por pagina	START	1652210078864
+USER	Producto por pagina	START	1652210078864
+USER	Producto por pagina	START	1652210078859
+USER	Producto por pagina	START	1652210078860
+USER	Producto por pagina	START	1652210078862
+USER	Producto por pagina	START	1652210078865
+USER	Producto por pagina	START	1652210078868
+USER	Producto por pagina	START	1652210078869
+USER	Producto por pagina	START	1652210078866
+USER	Producto por pagina	START	1652210078864
+USER	Producto por pagina	START	1652210078743
+USER	Producto por pagina	START	1652210078872
+USER	Producto por pagina	START	1652210078873
+USER	Producto por pagina	START	1652210078873
+USER	Producto por pagina	START	1652210078873
+USER	Producto por pagina	START	1652210078874
+USER	Producto por pagina	START	1652210078866
+USER	Producto por pagina	START	1652210078874
+USER	Producto por pagina	START	1652210078875
+USER	Producto por pagina	START	1652210078875
+USER	Producto por pagina	START	1652210078868
+USER	Producto por pagina	START	1652210078875
+USER	Producto por pagina	START	1652210078875
+USER	Producto por pagina	START	1652210078876
+USER	Producto por pagina	START	1652210078870
+USER	Producto por pagina	START	1652210078874
+USER	Producto por pagina	START	1652210078877
+USER	Producto por pagina	START	1652210078875
+USER	Producto por pagina	START	1652210078876
+USER	Producto por pagina	START	1652210078865
+USER	Producto por pagina	START	1652210078869
+USER	Producto por pagina	START	1652210078876
+USER	Producto por pagina	START	1652210078881
+USER	Producto por pagina	START	1652210078881
+USER	Producto por pagina	START	1652210078877
+USER	Producto por pagina	START	1652210078878
+USER	Producto por pagina	START	1652210078882
+USER	Producto por pagina	START	1652210078882
+USER	Producto por pagina	START	1652210078882
+USER	Producto por pagina	START	1652210078883
+USER	Producto por pagina	START	1652210078883
+USER	Producto por pagina	START	1652210078884
+USER	Producto por pagina	START	1652210078884
+USER	Producto por pagina	START	1652210078884
+USER	Producto por pagina	START	1652210078885
+USER	Producto por pagina	START	1652210078878
+USER	Producto por pagina	START	1652210078882
+USER	Producto por pagina	START	1652210078878
+USER	Producto por pagina	START	1652210078887
+USER	Producto por pagina	START	1652210078881
+USER	Producto por pagina	START	1652210078886
+USER	Producto por pagina	START	1652210078882
+USER	Producto por pagina	START	1652210078888
+USER	Producto por pagina	START	1652210078882
+USER	Producto por pagina	START	1652210078889
+USER	Producto por pagina	START	1652210078889
+USER	Producto por pagina	START	1652210078887
+USER	Producto por pagina	START	1652210078891
+USER	Producto por pagina	START	1652210078888
+USER	Producto por pagina	START	1652210078888
+USER	Producto por pagina	START	1652210078892
+USER	Producto por pagina	START	1652210078889
+USER	Producto por pagina	START	1652210078893
+USER	Producto por pagina	START	1652210078893
+USER	Producto por pagina	START	1652210078894
+USER	Producto por pagina	START	1652210078894
+USER	Producto por pagina	START	1652210078888
+USER	Producto por pagina	START	1652210078891
+USER	Producto por pagina	START	1652210078895
+USER	Producto por pagina	START	1652210078891
+USER	Producto por pagina	START	1652210078892
+USER	Producto por pagina	START	1652210078896
+USER	Producto por pagina	START	1652210078892
+USER	Producto por pagina	START	1652210078897
+USER	Producto por pagina	START	1652210078895
+USER	Producto por pagina	START	1652210078899
+USER	Producto por pagina	START	1652210078899
+USER	Producto por pagina	START	1652210078900
+USER	Producto por pagina	START	1652210078901
+USER	Producto por pagina	START	1652210078894
+USER	Producto por pagina	START	1652210078902
+USER	Producto por pagina	START	1652210078895
+USER	Producto por pagina	START	1652210078895
+USER	Producto por pagina	START	1652210078900
+USER	Producto por pagina	START	1652210078904
+USER	Producto por pagina	START	1652210078904
+USER	Producto por pagina	START	1652210078905
+USER	Producto por pagina	START	1652210078905
+USER	Producto por pagina	START	1652210078897
+USER	Producto por pagina	START	1652210078906
+USER	Producto por pagina	START	1652210078906
+USER	Producto por pagina	START	1652210078904
+USER	Producto por pagina	START	1652210078906
+USER	Producto por pagina	START	1652210078905
+USER	Producto por pagina	START	1652210078908
+USER	Producto por pagina	START	1652210078908
+USER	Producto por pagina	START	1652210078907
+USER	Producto por pagina	START	1652210078909
+USER	Producto por pagina	START	1652210078907
+USER	Producto por pagina	START	1652210078909
+USER	Producto por pagina	START	1652210078910
+USER	Producto por pagina	START	1652210078910
+USER	Producto por pagina	START	1652210078908
+USER	Producto por pagina	START	1652210078910
+USER	Producto por pagina	START	1652210078911
+USER	Producto por pagina	START	1652210078912
+USER	Producto por pagina	START	1652210078909
+USER	Producto por pagina	START	1652210078912
+USER	Producto por pagina	START	1652210078912
+USER	Producto por pagina	START	1652210078913
+USER	Producto por pagina	START	1652210078913
+USER	Producto por pagina	START	1652210078913
+USER	Producto por pagina	START	1652210078913
+USER	Producto por pagina	START	1652210078911
+USER	Producto por pagina	START	1652210078914
+USER	Producto por pagina	START	1652210078914
+USER	Producto por pagina	START	1652210078915
+USER	Producto por pagina	START	1652210078914
+USER	Producto por pagina	START	1652210078914
+USER	Producto por pagina	START	1652210078914
+USER	Producto por pagina	START	1652210078914
+USER	Producto por pagina	START	1652210078916
+USER	Producto por pagina	START	1652210078916
+USER	Producto por pagina	START	1652210078916
+USER	Producto por pagina	START	1652210078916
+USER	Producto por pagina	START	1652210078915
+USER	Producto por pagina	START	1652210078917
+USER	Producto por pagina	START	1652210078917
+USER	Producto por pagina	START	1652210078918
+USER	Producto por pagina	START	1652210078918
+USER	Producto por pagina	START	1652210078916
+USER	Producto por pagina	START	1652210078919
+USER	Producto por pagina	START	1652210078921
+USER	Producto por pagina	START	1652210078919
+USER	Producto por pagina	START	1652210078918
+USER	Producto por pagina	START	1652210078920
+USER	Producto por pagina	START	1652210078922
+USER	Producto por pagina	START	1652210078922
+USER	Producto por pagina	START	1652210078922
+USER	Producto por pagina	START	1652210078922
+USER	Producto por pagina	START	1652210078923
+USER	Producto por pagina	START	1652210078922
+USER	Producto por pagina	START	1652210078924
+USER	Producto por pagina	START	1652210078925
+USER	Producto por pagina	START	1652210078925
+USER	Producto por pagina	START	1652210078924
+USER	Producto por pagina	START	1652210078926
+USER	Producto por pagina	START	1652210078926
+USER	Producto por pagina	START	1652210078927
+USER	Producto por pagina	START	1652210078927
+USER	Producto por pagina	START	1652210078927
+USER	Producto por pagina	START	1652210078928
+USER	Producto por pagina	START	1652210078923
+USER	Producto por pagina	START	1652210078928
+USER	Producto por pagina	START	1652210078930
+USER	Producto por pagina	START	1652210078930
+USER	Producto por pagina	START	1652210078931
+USER	Producto por pagina	START	1652210078931
+USER	Producto por pagina	START	1652210078929
+USER	Producto por pagina	START	1652210078932
+USER	Producto por pagina	START	1652210078933
+USER	Producto por pagina	START	1652210078933
+USER	Producto por pagina	START	1652210078934
+USER	Producto por pagina	START	1652210078932
+USER	Producto por pagina	START	1652210078938
+USER	Producto por pagina	START	1652210078939
+USER	Producto por pagina	START	1652210078934
+USER	Producto por pagina	START	1652210078941
+USER	Producto por pagina	START	1652210078943
+USER	Producto por pagina	START	1652210078944
+USER	Producto por pagina	START	1652210078940
+USER	Producto por pagina	START	1652210078945
+USER	Producto por pagina	START	1652210078945
+USER	Producto por pagina	START	1652210078946
+USER	Producto por pagina	START	1652210078946
+USER	Producto por pagina	START	1652210078947
+USER	Producto por pagina	START	1652210078947
+USER	Producto por pagina	START	1652210078948
+USER	Producto por pagina	START	1652210078950
+USER	Producto por pagina	START	1652210078951
+USER	Producto por pagina	START	1652210078952
+USER	Producto por pagina	START	1652210078953
+USER	Producto por pagina	START	1652210078954
+USER	Producto por pagina	START	1652210078902
+USER	Producto por pagina	START	1652210078957
+USER	Producto por pagina	START	1652210078960
+USER	Producto por pagina	START	1652210078972
+USER	Producto por pagina	START	1652210078973
+USER	Producto por pagina	START	1652210078975
+USER	Producto por pagina	START	1652210078976
+USER	Producto por pagina	START	1652210078978
+USER	Producto por pagina	START	1652210078948
+USER	Producto por pagina	START	1652210078984
+USER	Producto por pagina	START	1652210078985
+REQUEST		Solicitar productos en pagina 1	1652210078549	1652210080353	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210080798
+REQUEST		Solicitar productos en pagina 1	1652210078603	1652210080093	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210080837
+REQUEST		Solicitar productos en pagina 1	1652210078600	1652210080848	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+REQUEST		Solicitar productos en pagina 1	1652210078583	1652210080864	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210080852
+USER	Producto por pagina	END	1652210080870
+REQUEST		Solicitar productos en pagina 1	1652210078640	1652210080959	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210080964
+REQUEST		Solicitar productos en pagina 1	1652210078561	1652210080832	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210080991
+REQUEST		Solicitar productos en pagina 1	1652210078593	1652210081003	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210081016
+REQUEST		Solicitar productos en pagina 1	1652210078599	1652210081019	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210081023
+REQUEST		Solicitar productos en pagina 1	1652210078563	1652210081051	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210081054
+REQUEST		Solicitar productos en pagina 1	1652210078602	1652210081150	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210081153
+REQUEST		Solicitar productos en pagina 1	1652210078577	1652210081236	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210081239
+REQUEST		Solicitar productos en pagina 1	1652210078549	1652210081318	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210081323
+REQUEST		Solicitar productos en pagina 1	1652210078584	1652210081406	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210081409
+REQUEST		Solicitar productos en pagina 1	1652210078644	1652210081520	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210081522
+REQUEST		Solicitar productos en pagina 1	1652210078655	1652210081570	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210081576
+REQUEST		Solicitar productos en pagina 1	1652210078603	1652210081723	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210081725
+REQUEST		Solicitar productos en pagina 1	1652210078658	1652210081742	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210081745
+REQUEST		Solicitar productos en pagina 1	1652210078586	1652210081913	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210081916
+REQUEST		Solicitar productos en pagina 1	1652210078578	1652210081933	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210081937
+REQUEST		Solicitar productos en pagina 1	1652210078550	1652210082070	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210082072
+REQUEST		Solicitar productos en pagina 1	1652210078661	1652210082108	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210082110
+REQUEST		Solicitar productos en pagina 1	1652210078575	1652210082238	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210082242
+REQUEST		Solicitar productos en pagina 1	1652210078602	1652210082316	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210082318
+REQUEST		Solicitar productos en pagina 1	1652210078601	1652210082391	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210082393
+REQUEST		Solicitar productos en pagina 1	1652210078550	1652210082499	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210082502
+REQUEST		Solicitar productos en pagina 1	1652210078600	1652210082541	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210082548
+REQUEST		Solicitar productos en pagina 1	1652210078672	1652210082618	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210082620
+REQUEST		Solicitar productos en pagina 1	1652210078675	1652210082705	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210082707
+REQUEST		Solicitar productos en pagina 1	1652210078589	1652210082787	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210082791
+REQUEST		Solicitar productos en pagina 1	1652210078708	1652210082879	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210082880
+REQUEST		Solicitar productos en pagina 1	1652210078591	1652210083036	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210083039
+REQUEST		Solicitar productos en pagina 1	1652210078602	1652210083062	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210083064
+REQUEST		Solicitar productos en pagina 1	1652210078740	1652210083229	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210083230
+REQUEST		Solicitar productos en pagina 1	1652210078592	1652210083443	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210083445
+REQUEST		Solicitar productos en pagina 1	1652210078742	1652210083652	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210083653
+REQUEST		Solicitar productos en pagina 1	1652210078678	1652210083856	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210083859
+REQUEST		Solicitar productos en pagina 1	1652210078743	1652210084065	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210084067
+REQUEST		Solicitar productos en pagina 1	1652210078666	1652210084167	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210084169
+REQUEST		Solicitar productos en pagina 1	1652210078604	1652210084198	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210084200
+REQUEST		Solicitar productos en pagina 1	1652210078549	1652210084275	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210084281
+REQUEST		Solicitar productos en pagina 1	1652210078647	1652210084381	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210084383
+REQUEST		Solicitar productos en pagina 1	1652210078874	1652210084503	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+REQUEST		Solicitar productos en pagina 1	1652210078609	1652210084504	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210084508
+USER	Producto por pagina	END	1652210084510
+REQUEST		Solicitar productos en pagina 1	1652210078875	1652210084637	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210084639
+REQUEST		Solicitar productos en pagina 1	1652210078608	1652210084642	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210084644
+REQUEST		Solicitar productos en pagina 1	1652210078904	1652210084741	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210084744
+REQUEST		Solicitar productos en pagina 1	1652210078907	1652210084812	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210084815
+REQUEST		Solicitar productos en pagina 1	1652210078912	1652210084989	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210084992
+REQUEST		Solicitar productos en pagina 1	1652210078911	1652210085200	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210085201
+REQUEST		Solicitar productos en pagina 1	1652210078914	1652210085362	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210085364
+REQUEST		Solicitar productos en pagina 1	1652210078906	1652210085491	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210085493
+REQUEST		Solicitar productos en pagina 1	1652210078590	1652210085627	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210085629
+REQUEST		Solicitar productos en pagina 1	1652210078916	1652210085756	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210085759
+REQUEST		Solicitar productos en pagina 1	1652210078914	1652210085886	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210085888
+REQUEST		Solicitar productos en pagina 1	1652210078617	1652210086056	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210086059
+REQUEST		Solicitar productos en pagina 1	1652210078625	1652210086122	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210086124
+REQUEST		Solicitar productos en pagina 1	1652210078549	1652210086217	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210086219
+REQUEST		Solicitar productos en pagina 1	1652210078615	1652210086312	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210086315
+REQUEST		Solicitar productos en pagina 1	1652210078614	1652210086402	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210086403
+REQUEST		Solicitar productos en pagina 1	1652210078621	1652210086534	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210086536
+REQUEST		Solicitar productos en pagina 1	1652210078873	1652210086625	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210086627
+REQUEST		Solicitar productos en pagina 1	1652210078619	1652210086745	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210086746
+REQUEST		Solicitar productos en pagina 1	1652210078628	1652210086875	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210086877
+REQUEST		Solicitar productos en pagina 1	1652210078613	1652210086894	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210086897
+REQUEST		Solicitar productos en pagina 1	1652210078611	1652210087066	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210087068
+REQUEST		Solicitar productos en pagina 1	1652210078624	1652210087094	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210087100
+REQUEST		Solicitar productos en pagina 1	1652210078633	1652210087227	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210087228
+REQUEST		Solicitar productos en pagina 1	1652210078612	1652210087266	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210087267
+REQUEST		Solicitar productos en pagina 1	1652210078619	1652210087333	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210087335
+REQUEST		Solicitar productos en pagina 1	1652210078917	1652210087439	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210087441
+REQUEST		Solicitar productos en pagina 1	1652210078919	1652210087536	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210087538
+REQUEST		Solicitar productos en pagina 1	1652210078646	1652210087631	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210087633
+REQUEST		Solicitar productos en pagina 1	1652210078920	1652210087782	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210087784
+REQUEST		Solicitar productos en pagina 1	1652210078621	1652210087820	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210087823
+REQUEST		Solicitar productos en pagina 1	1652210078921	1652210087983	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210087985
+REQUEST		Solicitar productos en pagina 1	1652210078645	1652210087995	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210087997
+REQUEST		Solicitar productos en pagina 1	1652210078694	1652210088155	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210088156
+REQUEST		Solicitar productos en pagina 1	1652210078631	1652210088191	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210088193
+REQUEST		Solicitar productos en pagina 1	1652210078594	1652210088340	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210088342
+REQUEST		Solicitar productos en pagina 1	1652210078711	1652210088357	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210088359
+REQUEST		Solicitar productos en pagina 1	1652210078626	1652210088449	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210088452
+REQUEST		Solicitar productos en pagina 1	1652210078685	1652210088536	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210088537
+REQUEST		Solicitar productos en pagina 1	1652210078744	1652210088615	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210088617
+REQUEST		Solicitar productos en pagina 1	1652210078759	1652210088715	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210088718
+REQUEST		Solicitar productos en pagina 1	1652210078745	1652210088795	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210088797
+REQUEST		Solicitar productos en pagina 1	1652210078758	1652210088872	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210088873
+REQUEST		Solicitar productos en pagina 1	1652210078747	1652210089057	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210089059
+REQUEST		Solicitar productos en pagina 1	1652210078926	1652210089189	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210089190
+REQUEST		Solicitar productos en pagina 1	1652210078603	1652210089310	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210089313
+REQUEST		Solicitar productos en pagina 1	1652210078604	1652210089479	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210089481
+REQUEST		Solicitar productos en pagina 1	1652210078597	1652210089616	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210089619
+REQUEST		Solicitar productos en pagina 1	1652210078608	1652210089728	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210089729
+REQUEST		Solicitar productos en pagina 1	1652210078671	1652210089825	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210089827
+REQUEST		Solicitar productos en pagina 1	1652210078609	1652210089903	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210089905
+REQUEST		Solicitar productos en pagina 1	1652210078709	1652210090021	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210090023
+REQUEST		Solicitar productos en pagina 1	1652210078606	1652210090142	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210090144
+REQUEST		Solicitar productos en pagina 1	1652210078607	1652210090260	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210090262
+REQUEST		Solicitar productos en pagina 1	1652210078931	1652210090354	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210090356
+REQUEST		Solicitar productos en pagina 1	1652210078612	1652210090442	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210090444
+REQUEST		Solicitar productos en pagina 1	1652210078668	1652210090558	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210090560
+REQUEST		Solicitar productos en pagina 1	1652210078639	1652210090638	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210090641
+REQUEST		Solicitar productos en pagina 1	1652210078777	1652210090715	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210090717
+REQUEST		Solicitar productos en pagina 1	1652210078679	1652210090793	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210090796
+REQUEST		Solicitar productos en pagina 1	1652210078677	1652210090869	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210090870
+REQUEST		Solicitar productos en pagina 1	1652210078665	1652210090949	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210090951
+REQUEST		Solicitar productos en pagina 1	1652210078635	1652210091170	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210091172
+REQUEST		Solicitar productos en pagina 1	1652210078819	1652210091179	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210091181
+REQUEST		Solicitar productos en pagina 1	1652210078826	1652210091379	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210091382
+REQUEST		Solicitar productos en pagina 1	1652210078795	1652210091565	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210091567
+REQUEST		Solicitar productos en pagina 1	1652210078684	1652210091653	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210091655
+REQUEST		Solicitar productos en pagina 1	1652210078640	1652210091751	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210091753
+REQUEST		Solicitar productos en pagina 1	1652210078783	1652210091835	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210091836
+REQUEST		Solicitar productos en pagina 1	1652210078681	1652210091916	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210091918
+REQUEST		Solicitar productos en pagina 1	1652210078677	1652210092079	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210092081
+REQUEST		Solicitar productos en pagina 1	1652210078849	1652210092208	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210092211
+REQUEST		Solicitar productos en pagina 1	1652210078827	1652210092320	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210092322
+REQUEST		Solicitar productos en pagina 1	1652210078637	1652210092460	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210092462
+REQUEST		Solicitar productos en pagina 1	1652210078710	1652210092541	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210092543
+REQUEST		Solicitar productos en pagina 1	1652210078679	1652210092619	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210092620
+REQUEST		Solicitar productos en pagina 1	1652210078678	1652210092697	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210092700
+REQUEST		Solicitar productos en pagina 1	1652210078782	1652210092778	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210092780
+REQUEST		Solicitar productos en pagina 1	1652210078650	1652210092862	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210092863
+REQUEST		Solicitar productos en pagina 1	1652210078721	1652210092944	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210092946
+REQUEST		Solicitar productos en pagina 1	1652210078674	1652210093045	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210093047
+REQUEST		Solicitar productos en pagina 1	1652210078640	1652210093137	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210093138
+REQUEST		Solicitar productos en pagina 1	1652210078722	1652210093218	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210093220
+REQUEST		Solicitar productos en pagina 1	1652210078639	1652210093303	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210093330
+REQUEST		Solicitar productos en pagina 1	1652210078611	1652210093393	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210093395
+REQUEST		Solicitar productos en pagina 1	1652210078681	1652210093470	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210093473
+REQUEST		Solicitar productos en pagina 1	1652210078723	1652210093555	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210093557
+REQUEST		Solicitar productos en pagina 1	1652210078693	1652210093626	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210093628
+REQUEST		Solicitar productos en pagina 1	1652210078671	1652210093751	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210093753
+REQUEST		Solicitar productos en pagina 1	1652210078706	1652210093797	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210093799
+REQUEST		Solicitar productos en pagina 1	1652210078552	1652210093955	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210093957
+REQUEST		Solicitar productos en pagina 1	1652210078729	1652210093985	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210093986
+REQUEST		Solicitar productos en pagina 1	1652210078679	1652210094142	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210094143
+REQUEST		Solicitar productos en pagina 1	1652210078717	1652210094204	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210094206
+REQUEST		Solicitar productos en pagina 1	1652210078727	1652210094313	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210094315
+REQUEST		Solicitar productos en pagina 1	1652210078684	1652210094391	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210094393
+REQUEST		Solicitar productos en pagina 1	1652210078725	1652210094439	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210094442
+REQUEST		Solicitar productos en pagina 1	1652210078730	1652210094519	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210094521
+REQUEST		Solicitar productos en pagina 1	1652210078686	1652210094596	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210094597
+REQUEST		Solicitar productos en pagina 1	1652210078723	1652210094673	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210094675
+REQUEST		Solicitar productos en pagina 1	1652210078745	1652210094757	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210094762
+REQUEST		Solicitar productos en pagina 1	1652210078714	1652210094841	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210094842
+REQUEST		Solicitar productos en pagina 1	1652210078726	1652210094932	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210094935
+REQUEST		Solicitar productos en pagina 1	1652210078728	1652210095022	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210095023
+REQUEST		Solicitar productos en pagina 1	1652210078715	1652210095118	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210095119
+REQUEST		Solicitar productos en pagina 1	1652210078730	1652210095303	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210095305
+REQUEST		Solicitar productos en pagina 1	1652210078732	1652210095315	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210095316
+REQUEST		Solicitar productos en pagina 1	1652210078683	1652210095496	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210095498
+REQUEST		Solicitar productos en pagina 1	1652210078759	1652210095514	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210095516
+REQUEST		Solicitar productos en pagina 1	1652210078734	1652210095686	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210095687
+REQUEST		Solicitar productos en pagina 1	1652210078937	1652210095709	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210095710
+REQUEST		Solicitar productos en pagina 1	1652210078938	1652210095861	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210095862
+REQUEST		Solicitar productos en pagina 1	1652210078728	1652210095877	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210095878
+REQUEST		Solicitar productos en pagina 1	1652210078733	1652210096094	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210096096
+REQUEST		Solicitar productos en pagina 1	1652210078639	1652210096102	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210096104
+REQUEST		Solicitar productos en pagina 1	1652210078782	1652210096186	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210096205
+REQUEST		Solicitar productos en pagina 1	1652210078776	1652210096267	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210096269
+REQUEST		Solicitar productos en pagina 1	1652210078838	1652210096360	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210096362
+REQUEST		Solicitar productos en pagina 1	1652210078794	1652210096482	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210096483
+REQUEST		Solicitar productos en pagina 1	1652210078749	1652210096620	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+REQUEST		Solicitar productos en pagina 1	1652210078798	1652210096622	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210096621
+USER	Producto por pagina	END	1652210096624
+REQUEST		Solicitar productos en pagina 1	1652210078764	1652210096800	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210096801
+REQUEST		Solicitar productos en pagina 1	1652210078650	1652210096829	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210096830
+REQUEST		Solicitar productos en pagina 1	1652210078649	1652210096981	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210096983
+REQUEST		Solicitar productos en pagina 1	1652210078855	1652210097016	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210097017
+REQUEST		Solicitar productos en pagina 1	1652210078797	1652210097159	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210097162
+REQUEST		Solicitar productos en pagina 1	1652210078795	1652210097205	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210097207
+REQUEST		Solicitar productos en pagina 1	1652210078947	1652210097382	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+REQUEST		Solicitar productos en pagina 1	1652210078840	1652210097382	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210097384
+USER	Producto por pagina	END	1652210097384
+REQUEST		Solicitar productos en pagina 1	1652210078731	1652210097461	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210097463
+REQUEST		Solicitar productos en pagina 1	1652210078808	1652210097537	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210097538
+REQUEST		Solicitar productos en pagina 1	1652210078949	1652210097611	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210097612
+REQUEST		Solicitar productos en pagina 1	1652210078842	1652210097689	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210097691
+REQUEST		Solicitar productos en pagina 1	1652210078946	1652210097768	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210097769
+REQUEST		Solicitar productos en pagina 1	1652210078736	1652210097888	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210097890
+REQUEST		Solicitar productos en pagina 1	1652210078986	1652210098047	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210098050
+REQUEST		Solicitar productos en pagina 1	1652210078741	1652210098069	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210098071
+REQUEST		Solicitar productos en pagina 1	1652210078651	1652210098413	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210098415
+REQUEST		Solicitar productos en pagina 1	1652210078648	1652210098533	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210098534
+REQUEST		Solicitar productos en pagina 1	1652210078835	1652210098690	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210098692
+REQUEST		Solicitar productos en pagina 1	1652210078740	1652210098754	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210098755
+REQUEST		Solicitar productos en pagina 1	1652210078756	1652210098862	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210098863
+REQUEST		Solicitar productos en pagina 1	1652210078940	1652210098922	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210098923
+REQUEST		Solicitar productos en pagina 1	1652210078793	1652210098989	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210098991
+REQUEST		Solicitar productos en pagina 1	1652210078843	1652210099076	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210099077
+REQUEST		Solicitar productos en pagina 1	1652210078785	1652210099173	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210099174
+REQUEST		Solicitar productos en pagina 1	1652210078853	1652210099253	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210099255
+REQUEST		Solicitar productos en pagina 1	1652210078852	1652210099330	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210099331
+REQUEST		Solicitar productos en pagina 1	1652210078781	1652210099408	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210099410
+REQUEST		Solicitar productos en pagina 1	1652210078765	1652210099497	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210099500
+REQUEST		Solicitar productos en pagina 1	1652210078775	1652210099628	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210099629
+REQUEST		Solicitar productos en pagina 1	1652210078781	1652210099674	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210099675
+REQUEST		Solicitar productos en pagina 1	1652210078814	1652210099830	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210099832
+REQUEST		Solicitar productos en pagina 1	1652210078772	1652210099847	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210099849
+REQUEST		Solicitar productos en pagina 1	1652210078767	1652210099985	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210099986
+REQUEST		Solicitar productos en pagina 1	1652210078778	1652210100016	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210100017
+REQUEST		Solicitar productos en pagina 1	1652210078858	1652210100171	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210100173
+REQUEST		Solicitar productos en pagina 1	1652210078867	1652210100201	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210100203
+REQUEST		Solicitar productos en pagina 1	1652210078874	1652210100282	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210100283
+REQUEST		Solicitar productos en pagina 1	1652210078887	1652210100360	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210100362
+REQUEST		Solicitar productos en pagina 1	1652210078780	1652210100440	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210100442
+REQUEST		Solicitar productos en pagina 1	1652210078892	1652210100523	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210100524
+REQUEST		Solicitar productos en pagina 1	1652210078873	1652210100609	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210100610
+REQUEST		Solicitar productos en pagina 1	1652210078907	1652210100706	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210100707
+REQUEST		Solicitar productos en pagina 1	1652210078864	1652210100782	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210100784
+REQUEST		Solicitar productos en pagina 1	1652210078812	1652210100861	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210100863
+REQUEST		Solicitar productos en pagina 1	1652210078911	1652210100947	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210100951
+REQUEST		Solicitar productos en pagina 1	1652210078850	1652210101034	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210101036
+REQUEST		Solicitar productos en pagina 1	1652210078872	1652210101116	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210101118
+REQUEST		Solicitar productos en pagina 1	1652210078891	1652210101219	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210101220
+REQUEST		Solicitar productos en pagina 1	1652210078905	1652210101299	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210101301
+REQUEST		Solicitar productos en pagina 1	1652210078907	1652210101377	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210101378
+REQUEST		Solicitar productos en pagina 1	1652210078785	1652210101473	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210101475
+REQUEST		Solicitar productos en pagina 1	1652210078857	1652210101565	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210101567
+REQUEST		Solicitar productos en pagina 1	1652210078916	1652210101642	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210101644
+REQUEST		Solicitar productos en pagina 1	1652210078789	1652210101748	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210101750
+REQUEST		Solicitar productos en pagina 1	1652210078856	1652210101828	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210101829
+REQUEST		Solicitar productos en pagina 1	1652210078653	1652210101909	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210101910
+REQUEST		Solicitar productos en pagina 1	1652210078913	1652210101988	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210101990
+REQUEST		Solicitar productos en pagina 1	1652210078654	1652210102083	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210102085
+REQUEST		Solicitar productos en pagina 1	1652210078850	1652210102174	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210102176
+REQUEST		Solicitar productos en pagina 1	1652210078872	1652210102334	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210102336
+REQUEST		Solicitar productos en pagina 1	1652210078865	1652210102355	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210102357
+REQUEST		Solicitar productos en pagina 1	1652210078924	1652210102500	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210102501
+REQUEST		Solicitar productos en pagina 1	1652210078888	1652210102535	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210102537
+REQUEST		Solicitar productos en pagina 1	1652210078892	1652210102704	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210102705
+REQUEST		Solicitar productos en pagina 1	1652210078873	1652210102728	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210102728
+REQUEST		Solicitar productos en pagina 1	1652210078895	1652210102893	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210102895
+REQUEST		Solicitar productos en pagina 1	1652210078894	1652210102905	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210102906
+REQUEST		Solicitar productos en pagina 1	1652210078900	1652210102987	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210102988
+REQUEST		Solicitar productos en pagina 1	1652210078898	1652210103072	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210103073
+REQUEST		Solicitar productos en pagina 1	1652210078901	1652210103149	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210103151
+REQUEST		Solicitar productos en pagina 1	1652210078605	1652210103241	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210103243
+REQUEST		Solicitar productos en pagina 1	1652210078607	1652210103329	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210103330
+REQUEST		Solicitar productos en pagina 1	1652210078899	1652210103449	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210103451
+REQUEST		Solicitar productos en pagina 1	1652210078650	1652210103547	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210103548
+REQUEST		Solicitar productos en pagina 1	1652210078674	1652210103663	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210103664
+REQUEST		Solicitar productos en pagina 1	1652210078698	1652210103771	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210103773
+REQUEST		Solicitar productos en pagina 1	1652210078692	1652210103873	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210103875
+REQUEST		Solicitar productos en pagina 1	1652210078690	1652210103955	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210103957
+REQUEST		Solicitar productos en pagina 1	1652210078699	1652210104042	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210104043
+REQUEST		Solicitar productos en pagina 1	1652210078700	1652210104131	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210104134
+REQUEST		Solicitar productos en pagina 1	1652210078715	1652210104239	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210104241
+REQUEST		Solicitar productos en pagina 1	1652210078727	1652210104313	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210104314
+REQUEST		Solicitar productos en pagina 1	1652210078746	1652210104399	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210104402
+REQUEST		Solicitar productos en pagina 1	1652210078921	1652210104480	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210104481
+REQUEST		Solicitar productos en pagina 1	1652210078925	1652210104568	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210104569
+REQUEST		Solicitar productos en pagina 1	1652210078790	1652210104649	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210104650
+REQUEST		Solicitar productos en pagina 1	1652210078780	1652210104742	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210104744
+REQUEST		Solicitar productos en pagina 1	1652210078887	1652210104826	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210104827
+REQUEST		Solicitar productos en pagina 1	1652210078674	1652210104913	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210104916
+REQUEST		Solicitar productos en pagina 1	1652210078832	1652210104999	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210105001
+REQUEST		Solicitar productos en pagina 1	1652210078675	1652210105084	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210105086
+REQUEST		Solicitar productos en pagina 1	1652210078695	1652210105164	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210105167
+REQUEST		Solicitar productos en pagina 1	1652210078850	1652210105322	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210105324
+REQUEST		Solicitar productos en pagina 1	1652210078698	1652210105371	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210105373
+REQUEST		Solicitar productos en pagina 1	1652210078697	1652210105491	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210105493
+REQUEST		Solicitar productos en pagina 1	1652210078700	1652210105552	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210105554
+REQUEST		Solicitar productos en pagina 1	1652210078701	1652210105638	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210105640
+REQUEST		Solicitar productos en pagina 1	1652210078702	1652210105777	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210105779
+REQUEST		Solicitar productos en pagina 1	1652210078704	1652210106037	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210106038
+REQUEST		Solicitar productos en pagina 1	1652210078718	1652210106072	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210106073
+REQUEST		Solicitar productos en pagina 1	1652210078796	1652210106134	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210106135
+REQUEST		Solicitar productos en pagina 1	1652210078725	1652210106227	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210106228
+REQUEST		Solicitar productos en pagina 1	1652210078794	1652210106311	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210106315
+REQUEST		Solicitar productos en pagina 1	1652210078716	1652210106399	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210106400
+REQUEST		Solicitar productos en pagina 1	1652210078724	1652210106473	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210106474
+REQUEST		Solicitar productos en pagina 1	1652210078782	1652210106558	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210106561
+REQUEST		Solicitar productos en pagina 1	1652210078752	1652210106634	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210106636
+REQUEST		Solicitar productos en pagina 1	1652210078720	1652210106726	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210106727
+REQUEST		Solicitar productos en pagina 1	1652210078746	1652210106818	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210106820
+REQUEST		Solicitar productos en pagina 1	1652210078751	1652210106900	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210106902
+REQUEST		Solicitar productos en pagina 1	1652210078848	1652210107183	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210107184
+REQUEST		Solicitar productos en pagina 1	1652210078816	1652210107195	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210107196
+REQUEST		Solicitar productos en pagina 1	1652210078846	1652210107355	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210107356
+REQUEST		Solicitar productos en pagina 1	1652210078809	1652210107381	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210107382
+REQUEST		Solicitar productos en pagina 1	1652210078806	1652210107538	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210107539
+REQUEST		Solicitar productos en pagina 1	1652210078852	1652210107550	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210107552
+REQUEST		Solicitar productos en pagina 1	1652210078831	1652210107705	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210107706
+REQUEST		Solicitar productos en pagina 1	1652210078757	1652210107726	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210107727
+REQUEST		Solicitar productos en pagina 1	1652210078875	1652210107800	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210107801
+REQUEST		Solicitar productos en pagina 1	1652210078851	1652210107881	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210107882
+REQUEST		Solicitar productos en pagina 1	1652210078891	1652210107962	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210107963
+REQUEST		Solicitar productos en pagina 1	1652210078824	1652210108035	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210108038
+REQUEST		Solicitar productos en pagina 1	1652210078860	1652210108115	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210108117
+REQUEST		Solicitar productos en pagina 1	1652210078817	1652210108195	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210108197
+REQUEST		Solicitar productos en pagina 1	1652210078861	1652210108338	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210108339
+REQUEST		Solicitar productos en pagina 1	1652210078842	1652210108382	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210108384
+REQUEST		Solicitar productos en pagina 1	1652210078853	1652210108496	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210108497
+REQUEST		Solicitar productos en pagina 1	1652210078843	1652210108568	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210108569
+REQUEST		Solicitar productos en pagina 1	1652210078851	1652210108698	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210108699
+REQUEST		Solicitar productos en pagina 1	1652210078780	1652210108778	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210108779
+REQUEST		Solicitar productos en pagina 1	1652210078748	1652210109041	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210109043
+REQUEST		Solicitar productos en pagina 1	1652210078845	1652210109061	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210109064
+REQUEST		Solicitar productos en pagina 1	1652210078854	1652210109150	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210109151
+REQUEST		Solicitar productos en pagina 1	1652210078852	1652210109228	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210109229
+REQUEST		Solicitar productos en pagina 1	1652210078859	1652210109339	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210109340
+REQUEST		Solicitar productos en pagina 1	1652210078871	1652210109415	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210109417
+REQUEST		Solicitar productos en pagina 1	1652210078850	1652210109504	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210109505
+REQUEST		Solicitar productos en pagina 1	1652210078862	1652210109599	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210109601
+REQUEST		Solicitar productos en pagina 1	1652210078878	1652210109681	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210109683
+REQUEST		Solicitar productos en pagina 1	1652210078877	1652210109761	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210109762
+REQUEST		Solicitar productos en pagina 1	1652210078886	1652210109839	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210109841
+REQUEST		Solicitar productos en pagina 1	1652210078885	1652210109916	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210109918
+REQUEST		Solicitar productos en pagina 1	1652210078868	1652210109997	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210109999
+REQUEST		Solicitar productos en pagina 1	1652210078888	1652210110072	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210110074
+REQUEST		Solicitar productos en pagina 1	1652210078888	1652210110162	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210110164
+REQUEST		Solicitar productos en pagina 1	1652210078867	1652210110241	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210110243
+REQUEST		Solicitar productos en pagina 1	1652210078882	1652210110350	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210110352
+REQUEST		Solicitar productos en pagina 1	1652210078883	1652210110588	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210110589
+REQUEST		Solicitar productos en pagina 1	1652210078942	1652210110745	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210110746
+REQUEST		Solicitar productos en pagina 1	1652210078972	1652210110755	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210110756
+REQUEST		Solicitar productos en pagina 1	1652210078928	1652210110964	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210110965
+REQUEST		Solicitar productos en pagina 1	1652210078974	1652210110995	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210110996
+REQUEST		Solicitar productos en pagina 1	1652210078934	1652210111165	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210111166
+REQUEST		Solicitar productos en pagina 1	1652210078927	1652210111202	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210111205
+REQUEST		Solicitar productos en pagina 1	1652210078781	1652210111368	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210111370
+REQUEST		Solicitar productos en pagina 1	1652210078979	1652210111426	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210111429
+REQUEST		Solicitar productos en pagina 1	1652210078860	1652210111575	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210111576
+REQUEST		Solicitar productos en pagina 1	1652210078869	1652210111668	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210111670
+REQUEST		Solicitar productos en pagina 1	1652210078933	1652210111750	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210111751
+REQUEST		Solicitar productos en pagina 1	1652210078944	1652210111839	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210111841
+REQUEST		Solicitar productos en pagina 1	1652210078682	1652210111919	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210111921
+REQUEST		Solicitar productos en pagina 1	1652210078859	1652210112002	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210112003
+REQUEST		Solicitar productos en pagina 1	1652210078948	1652210112090	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210112092
+REQUEST		Solicitar productos en pagina 1	1652210078861	1652210112171	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210112173
+REQUEST		Solicitar productos en pagina 1	1652210078792	1652210112253	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210112254
+REQUEST		Solicitar productos en pagina 1	1652210078858	1652210112361	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210112362
+REQUEST		Solicitar productos en pagina 1	1652210078787	1652210112449	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210112450
+REQUEST		Solicitar productos en pagina 1	1652210078945	1652210112535	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210112536
+REQUEST		Solicitar productos en pagina 1	1652210078818	1652210112633	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210112635
+REQUEST		Solicitar productos en pagina 1	1652210078865	1652210112716	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210112718
+REQUEST		Solicitar productos en pagina 1	1652210078951	1652210112801	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210112802
+REQUEST		Solicitar productos en pagina 1	1652210078952	1652210112900	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210112902
+REQUEST		Solicitar productos en pagina 1	1652210078890	1652210112986	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210112987
+REQUEST		Solicitar productos en pagina 1	1652210078863	1652210113074	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210113075
+REQUEST		Solicitar productos en pagina 1	1652210078862	1652210113163	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210113165
+REQUEST		Solicitar productos en pagina 1	1652210078955	1652210113283	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210113284
+REQUEST		Solicitar productos en pagina 1	1652210078874	1652210113305	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210113306
+REQUEST		Solicitar productos en pagina 1	1652210078888	1652210113477	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210113479
+REQUEST		Solicitar productos en pagina 1	1652210078895	1652210113487	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210113489
+REQUEST		Solicitar productos en pagina 1	1652210078953	1652210113664	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210113665
+REQUEST		Solicitar productos en pagina 1	1652210078905	1652210113676	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210113677
+REQUEST		Solicitar productos en pagina 1	1652210078783	1652210113849	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210113850
+REQUEST		Solicitar productos en pagina 1	1652210078889	1652210113866	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210113867
+REQUEST		Solicitar productos en pagina 1	1652210078893	1652210114014	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210114016
+REQUEST		Solicitar productos en pagina 1	1652210078873	1652210114027	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210114029
+REQUEST		Solicitar productos en pagina 1	1652210078849	1652210114117	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210114119
+REQUEST		Solicitar productos en pagina 1	1652210078906	1652210114210	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210114212
+REQUEST		Solicitar productos en pagina 1	1652210078894	1652210114311	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210114312
+REQUEST		Solicitar productos en pagina 1	1652210078895	1652210114407	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210114409
+REQUEST		Solicitar productos en pagina 1	1652210078878	1652210114510	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210114511
+REQUEST		Solicitar productos en pagina 1	1652210078910	1652210114583	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210114584
+REQUEST		Solicitar productos en pagina 1	1652210078784	1652210114678	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210114680
+REQUEST		Solicitar productos en pagina 1	1652210078847	1652210114773	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210114775
+REQUEST		Solicitar productos en pagina 1	1652210078913	1652210114860	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210114861
+REQUEST		Solicitar productos en pagina 1	1652210078910	1652210114944	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210114945
+REQUEST		Solicitar productos en pagina 1	1652210078844	1652210115035	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210115036
+REQUEST		Solicitar productos en pagina 1	1652210078785	1652210115118	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210115119
+REQUEST		Solicitar productos en pagina 1	1652210078881	1652210115205	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210115207
+REQUEST		Solicitar productos en pagina 1	1652210078914	1652210115300	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210115301
+REQUEST		Solicitar productos en pagina 1	1652210078913	1652210115408	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210115409
+REQUEST		Solicitar productos en pagina 1	1652210078792	1652210115494	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210115496
+REQUEST		Solicitar productos en pagina 1	1652210078921	1652210115642	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210115653
+REQUEST		Solicitar productos en pagina 1	1652210078896	1652210115678	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210115679
+REQUEST		Solicitar productos en pagina 1	1652210078793	1652210115826	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210115827
+REQUEST		Solicitar productos en pagina 1	1652210078924	1652210115866	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210115868
+REQUEST		Solicitar productos en pagina 1	1652210078950	1652210115979	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210115980
+REQUEST		Solicitar productos en pagina 1	1652210078794	1652210116049	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210116050
+REQUEST		Solicitar productos en pagina 1	1652210078869	1652210116158	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210116160
+REQUEST		Solicitar productos en pagina 1	1652210078830	1652210116221	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210116223
+REQUEST		Solicitar productos en pagina 1	1652210078960	1652210116348	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210116349
+REQUEST		Solicitar productos en pagina 1	1652210078865	1652210116474	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210116476
+REQUEST		Solicitar productos en pagina 1	1652210078922	1652210116527	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210116528
+REQUEST		Solicitar productos en pagina 1	1652210078931	1652210116633	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210116634
+REQUEST		Solicitar productos en pagina 1	1652210078858	1652210116740	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210116743
+REQUEST		Solicitar productos en pagina 1	1652210078916	1652210116852	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210116853
+REQUEST		Solicitar productos en pagina 1	1652210078917	1652210116970	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210116972
+REQUEST		Solicitar productos en pagina 1	1652210078802	1652210117118	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210117120
+REQUEST		Solicitar productos en pagina 1	1652210078893	1652210117157	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210117158
+REQUEST		Solicitar productos en pagina 1	1652210078846	1652210117291	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210117293
+REQUEST		Solicitar productos en pagina 1	1652210078958	1652210117338	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210117340
+REQUEST		Solicitar productos en pagina 1	1652210078848	1652210117564	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210117565
+REQUEST		Solicitar productos en pagina 1	1652210078933	1652210117588	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210117590
+REQUEST		Solicitar productos en pagina 1	1652210078856	1652210117800	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210117802
+REQUEST		Solicitar productos en pagina 1	1652210078934	1652210117811	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210117812
+REQUEST		Solicitar productos en pagina 1	1652210078756	1652210117886	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210117887
+REQUEST		Solicitar productos en pagina 1	1652210078807	1652210117973	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210117974
+REQUEST		Solicitar productos en pagina 1	1652210078717	1652210118059	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210118061
+REQUEST		Solicitar productos en pagina 1	1652210078754	1652210118137	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210118138
+REQUEST		Solicitar productos en pagina 1	1652210078812	1652210118230	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210118231
+REQUEST		Solicitar productos en pagina 1	1652210078888	1652210118318	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210118319
+REQUEST		Solicitar productos en pagina 1	1652210078878	1652210118412	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210118413
+REQUEST		Solicitar productos en pagina 1	1652210078817	1652210118524	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210118525
+REQUEST		Solicitar productos en pagina 1	1652210078818	1652210118630	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210118632
+REQUEST		Solicitar productos en pagina 1	1652210078841	1652210118733	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210118734
+REQUEST		Solicitar productos en pagina 1	1652210078907	1652210118838	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210118839
+REQUEST		Solicitar productos en pagina 1	1652210078862	1652210118951	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210118952
+REQUEST		Solicitar productos en pagina 1	1652210078977	1652210119032	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210119038
+REQUEST		Solicitar productos en pagina 1	1652210078930	1652210119135	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210119136
+REQUEST		Solicitar productos en pagina 1	1652210078975	1652210119216	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210119218
+REQUEST		Solicitar productos en pagina 1	1652210078916	1652210119301	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210119302
+REQUEST		Solicitar productos en pagina 1	1652210078932	1652210119369	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210119371
+REQUEST		Solicitar productos en pagina 1	1652210078580	1652210119563	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210119564
+REQUEST		Solicitar productos en pagina 1	1652210078664	1652210119729	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210119730
+REQUEST		Solicitar productos en pagina 1	1652210078575	1652210119736	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+REQUEST		Solicitar productos en pagina 1	1652210078757	1652210119738	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210119738
+USER	Producto por pagina	END	1652210119740
+REQUEST		Solicitar productos en pagina 1	1652210078596	1652210119756	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210119757
+REQUEST		Solicitar productos en pagina 1	1652210078662	1652210119857	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210119859
+REQUEST		Solicitar productos en pagina 1	1652210078760	1652210119906	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210119908
+REQUEST		Solicitar productos en pagina 1	1652210078581	1652210120002	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210120003
+REQUEST		Solicitar productos en pagina 1	1652210078881	1652210120077	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210120078
+REQUEST		Solicitar productos en pagina 1	1652210078883	1652210120138	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210120140
+REQUEST		Solicitar productos en pagina 1	1652210078865	1652210120238	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210120239
+REQUEST		Solicitar productos en pagina 1	1652210078892	1652210120316	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210120319
+REQUEST		Solicitar productos en pagina 1	1652210078908	1652210120401	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210120403
+REQUEST		Solicitar productos en pagina 1	1652210078893	1652210120502	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210120503
+REQUEST		Solicitar productos en pagina 1	1652210078904	1652210120676	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210120677
+REQUEST		Solicitar productos en pagina 1	1652210078910	1652210120760	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210120761
+REQUEST		Solicitar productos en pagina 1	1652210078903	1652210120856	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210120856
+REQUEST		Solicitar productos en pagina 1	1652210078911	1652210120943	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210120945
+REQUEST		Solicitar productos en pagina 1	1652210078882	1652210121026	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210121028
+REQUEST		Solicitar productos en pagina 1	1652210078909	1652210121102	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210121103
+REQUEST		Solicitar productos en pagina 1	1652210078914	1652210121182	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210121184
+REQUEST		Solicitar productos en pagina 1	1652210078912	1652210121269	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210121271
+REQUEST		Solicitar productos en pagina 1	1652210078914	1652210121388	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210121390
+REQUEST		Solicitar productos en pagina 1	1652210078915	1652210121435	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210121437
+REQUEST		Solicitar productos en pagina 1	1652210078921	1652210121610	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210121611
+REQUEST		Solicitar productos en pagina 1	1652210078894	1652210121625	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210121626
+REQUEST		Solicitar productos en pagina 1	1652210078922	1652210121630	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210121632
+REQUEST		Solicitar productos en pagina 1	1652210078924	1652210121778	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210121779
+REQUEST		Solicitar productos en pagina 1	1652210078925	1652210121797	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210121799
+REQUEST		Solicitar productos en pagina 1	1652210078918	1652210121970	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210121971
+REQUEST		Solicitar productos en pagina 1	1652210078926	1652210121997	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210121998
+REQUEST		Solicitar productos en pagina 1	1652210078917	1652210122076	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210122077
+REQUEST		Solicitar productos en pagina 1	1652210078927	1652210122154	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210122155
+REQUEST		Solicitar productos en pagina 1	1652210078923	1652210122244	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210122246
+REQUEST		Solicitar productos en pagina 1	1652210078881	1652210122325	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210122326
+REQUEST		Solicitar productos en pagina 1	1652210078882	1652210122402	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210122403
+REQUEST		Solicitar productos en pagina 1	1652210078885	1652210122491	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210122494
+REQUEST		Solicitar productos en pagina 1	1652210078884	1652210122575	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210122577
+REQUEST		Solicitar productos en pagina 1	1652210078894	1652210122655	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210122657
+REQUEST		Solicitar productos en pagina 1	1652210078889	1652210122732	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210122733
+REQUEST		Solicitar productos en pagina 1	1652210078876	1652210122810	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210122812
+REQUEST		Solicitar productos en pagina 1	1652210078905	1652210122890	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210122891
+REQUEST		Solicitar productos en pagina 1	1652210078901	1652210122977	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210122987
+REQUEST		Solicitar productos en pagina 1	1652210078875	1652210123053	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210123054
+REQUEST		Solicitar productos en pagina 1	1652210078876	1652210123124	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210123125
+REQUEST		Solicitar productos en pagina 1	1652210078909	1652210123200	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210123201
+REQUEST		Solicitar productos en pagina 1	1652210078883	1652210123335	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210123337
+REQUEST		Solicitar productos en pagina 1	1652210078912	1652210123374	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210123375
+REQUEST		Solicitar productos en pagina 1	1652210078886	1652210123520	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210123521
+REQUEST		Solicitar productos en pagina 1	1652210078913	1652210123560	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210123561
+REQUEST		Solicitar productos en pagina 1	1652210078916	1652210123705	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210123706
+REQUEST		Solicitar productos en pagina 1	1652210078899	1652210123900	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210123901
+REQUEST		Solicitar productos en pagina 1	1652210078713	1652210123913	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210123915
+REQUEST		Solicitar productos en pagina 1	1652210078898	1652210123927	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210123928
+REQUEST		Solicitar productos en pagina 1	1652210078915	1652210124054	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210124055
+REQUEST		Solicitar productos en pagina 1	1652210078696	1652210124135	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210124136
+REQUEST		Solicitar productos en pagina 1	1652210078597	1652210124191	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210124194
+REQUEST		Solicitar productos en pagina 1	1652210078688	1652210124215	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210124217
+REQUEST		Solicitar productos en pagina 1	1652210078630	1652210124310	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210124311
+REQUEST		Solicitar productos en pagina 1	1652210078598	1652210124466	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210124467
+REQUEST		Solicitar productos en pagina 1	1652210078947	1652210124565	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210124566
+REQUEST		Solicitar productos en pagina 1	1652210078710	1652210124574	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210124575
+REQUEST		Solicitar productos en pagina 1	1652210078949	1652210124645	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210124646
+REQUEST		Solicitar productos en pagina 1	1652210078930	1652210124759	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210124760
+REQUEST		Solicitar productos en pagina 1	1652210078923	1652210124863	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210124864
+REQUEST		Solicitar productos en pagina 1	1652210078893	1652210124953	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210124955
+REQUEST		Solicitar productos en pagina 1	1652210078670	1652210124984	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210124986
+REQUEST		Solicitar productos en pagina 1	1652210078905	1652210125078	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210125079
+REQUEST		Solicitar productos en pagina 1	1652210078720	1652210125159	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210125161
+REQUEST		Solicitar productos en pagina 1	1652210078943	1652210125238	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210125239
+REQUEST		Solicitar productos en pagina 1	1652210078676	1652210125332	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210125334
+REQUEST		Solicitar productos en pagina 1	1652210078923	1652210125406	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210125407
+REQUEST		Solicitar productos en pagina 1	1652210078641	1652210125481	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210125483
+REQUEST		Solicitar productos en pagina 1	1652210078657	1652210125589	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210125592
+REQUEST		Solicitar productos en pagina 1	1652210078915	1652210125657	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210125659
+REQUEST		Solicitar productos en pagina 1	1652210078549	1652210125726	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210125727
+REQUEST		Solicitar productos en pagina 1	1652210078642	1652210125806	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210125807
+REQUEST		Solicitar productos en pagina 1	1652210078910	1652210125885	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210125888
+REQUEST		Solicitar productos en pagina 1	1652210078888	1652210125964	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210125966
+REQUEST		Solicitar productos en pagina 1	1652210078931	1652210126044	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210126046
+REQUEST		Solicitar productos en pagina 1	1652210078876	1652210126117	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210126120
+REQUEST		Solicitar productos en pagina 1	1652210078943	1652210126198	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210126200
+REQUEST		Solicitar productos en pagina 1	1652210078875	1652210126305	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210126307
+REQUEST		Solicitar productos en pagina 1	1652210078984	1652210126377	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210126378
+REQUEST		Solicitar productos en pagina 1	1652210078950	1652210126499	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210126500
+REQUEST		Solicitar productos en pagina 1	1652210078930	1652210126573	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210126575
+REQUEST		Solicitar productos en pagina 1	1652210078668	1652210126744	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210126745
+REQUEST		Solicitar productos en pagina 1	1652210078925	1652210127000	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210127001
+REQUEST		Solicitar productos en pagina 1	1652210078948	1652210127011	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210127012
+REQUEST		Solicitar productos en pagina 1	1652210078913	1652210127288	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210127290
+REQUEST		Solicitar productos en pagina 1	1652210078667	1652210127307	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210127309
+REQUEST		Solicitar productos en pagina 1	1652210078733	1652210127494	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210127496
+REQUEST		Solicitar productos en pagina 1	1652210078707	1652210127531	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210127532
+REQUEST		Solicitar productos en pagina 1	1652210078927	1652210127610	KO	jsonPath($.data[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found  DJI CARCASA PARA MAVIC PRO                           
+USER	Producto por pagina	END	1652210127611

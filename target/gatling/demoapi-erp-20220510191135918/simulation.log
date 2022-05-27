@@ -1,0 +1,4 @@
+RUN	com.gatling.tests.DemoApi_ERP	demoapi-erp	1652209895918	 	3.6.1
+USER	Producto por pagina	START	1652209897436
+REQUEST		Solicitar productos en pagina 1	1652209897466	1652209898962	KO	jsonPath($[0].Descripcion).find.is(DJI CARCASA PARA MAVIC PRO), but actually found nothing
+USER	Producto por pagina	END	1652209899062

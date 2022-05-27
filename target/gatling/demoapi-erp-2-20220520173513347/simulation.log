@@ -1,0 +1,4 @@
+RUN	com.gatling.tests.DemoApi_ERP_2	demoapi-erp-2	1653068113347	Ventas	3.6.1
+USER	Crear comprobante de Ventas	START	1653068114916
+REQUEST		Ventas	1653068115052	1653068120145	OK	 
+USER	Crear comprobante de Ventas	END	1653068120212

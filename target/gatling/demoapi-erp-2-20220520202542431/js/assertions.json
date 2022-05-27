@@ -1,0 +1,27 @@
+{
+  "simulation": "com.gatling.tests.DemoApi_ERP_2",
+  "simulationId": "demoapi-erp-2",
+  "start": 1653078342431,
+  "description": "ventas",
+  "scenarios": ["Crear comprobante de Ventas"],
+  "assertions": [
+{
+  "path": "Global",
+  "target": "max of response time",
+  "condition": "is less than",
+  "expectedValues": [1500.0],
+  "result": false,
+  "message": "Global: max of response time is less than 1500.0",
+  "actualValue": [4158.0]
+},
+{
+  "path": "Global",
+  "target": "min of response time",
+  "condition": "is less than or equal to",
+  "expectedValues": [600.0],
+  "result": false,
+  "message": "Global: min of response time is less than or equal to 600.0",
+  "actualValue": [4158.0]
+}
+  ]
+}

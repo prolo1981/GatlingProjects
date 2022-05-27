@@ -1,0 +1,4 @@
+RUN	com.gatling.tests.DemoApi	demoapi	1652106220372	 	3.6.1
+USER	GET peliculas	START	1652106221905
+REQUEST		GET todos las peliculas	1652106221943	1652106221965	KO	jsonPath($[2].title).find.is(Batman ), but actually found Batman Forever
+USER	GET peliculas	END	1652106222153

@@ -1,0 +1,38 @@
+{
+  "Adendas": {
+    "Valor1": "TEST ADENDA"
+  },
+  "Emisor": {
+    "Emision": "23-05-2022",
+    "RUT": "212192950017"
+  },
+
+  "Encabezado": {
+    "FormaDepago": 1,
+    "Moneda": 1,
+    "Vencimiento": "13-05-2022"
+  },
+  "MediosDePago": [
+    {
+      "Tipo": "1",
+      "Total": "320.0"
+    }
+  ],
+  "Receptor": {
+    "Doc": "217909730013",
+    "TipoDoc": "2"
+  },
+  "Renglones": [
+    {
+      "Cantidad": 3.0,
+      "Codigo": "0001",
+      "PrecioFinal": 320.0,
+      "SobrescribirPrecio": 1,
+      "Descripcion":""
+    }
+  ],
+  "Totales": {
+    "Total": "320.0",
+    "SubTotal": "0"
+  }
+}

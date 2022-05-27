@@ -1,0 +1,4 @@
+RUN	com.gatling.tests.DemoApi_ERP	demoapi-erp	1652208780623	Productos	3.6.1
+USER	Producto por pagina	START	1652208782712
+REQUEST		Solicitar productos en pagina 1	1652208782856	1652208785192	OK	 
+USER	Producto por pagina	END	1652208785249

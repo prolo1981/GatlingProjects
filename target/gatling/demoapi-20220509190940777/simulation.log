@@ -1,0 +1,4 @@
+RUN	com.gatling.tests.DemoApi	demoapi	1652123380777	 	3.6.1
+USER	GET peliculas	START	1652123382217
+REQUEST		GET todos las peliculas	1652123382248	1652123382265	OK	 
+USER	GET peliculas	END	1652123382417
